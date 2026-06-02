@@ -4,3 +4,16 @@
   padding: 20px;
   border-radius: 20px;
 }
+
+.country-visited {
+  background-color: green;
+}
+
+.button {
+  padding: 20px;
+  border-radius: 20px;
+  font-size: large;
+  background-color: black;
+  color: white;
+  font-weight: 500;
+}
